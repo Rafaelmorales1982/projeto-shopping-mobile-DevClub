@@ -105,7 +105,7 @@
 }
 
 .container-nav nav ul li:nth-child(2) a{
-   opacity: 0.5;
+   opacity: 0.6;
 }
 
 @media screen and (max-width: 1024px) {
