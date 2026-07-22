@@ -1,8 +1,11 @@
 # 🛍️ Easy Shopping Via Mobile
 
 <p align="center">
-  <img src="./img/Illustration-3-3.png" alt="Easy Shopping Via Mobile" width="350">
+  <img src="./img/Illustration-3-3.png" alt="Easy Shopping Via Mobile" width="250">
+  <img src="./img/site.png" alt="Preview do Projeto Easy Shopping Via Mobile" width="750">
+  
 </p>
+
 
 <p align="center">
 
